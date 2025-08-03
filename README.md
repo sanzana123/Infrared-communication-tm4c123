@@ -1,4 +1,4 @@
-# TM4C123 UART Command-Based LED Controller
+# Infrared Communication using Uarts 
 
 ## Description
 This project implements a UART-based command interface to control RGB LEDs on the TM4C123 microcontroller. Users can send text commands over UART to toggle red, green, and blue LEDs and get feedback via UART communication.
